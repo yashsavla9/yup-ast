@@ -1,11 +1,11 @@
 {
     "version": "1.0.3",
     "main": "index.js",
-    "author": "will@wasd.team",
+    "author": "yash.savla@live.com",
     "module": "index.js",
-    "name": "@overgear/yup-ast",
+    "name": "@wr/yup-ast",
     "description": "Yup AST generator",
-    "repository": "git@github.com:WASD-Team/yup-ast.git",
+    "repository": "git@github.com:yashsavla9/yup-ast.git",
     "scripts": {
         "develop": "./develop.sh",
         "build": "NODE_ENV=production webpack --progress --config webpack.config.js; yarn version; cp package.json dist",

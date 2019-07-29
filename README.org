@@ -13,12 +13,12 @@ For many examples of the AST we can look into the [[./source/tests/converter.tes
 
 With NPM: 
 #+BEGIN_SRC bash
-  npm install @overgear/yup-ast
+  npm install @wr/yup-ast
 #+END_SRC
 
 With yarn: 
 #+BEGIN_SRC bash
-  yarn add @overgear/yup-ast
+  yarn add @wr/yup-ast
 #+END_SRC
 
 * Schema
