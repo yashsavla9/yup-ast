@@ -3,7 +3,7 @@
   "main": "index.js",
   "author": "yash.savla@live.com",
   "module": "index.js",
-  "name": "@wr/yup-ast",
+  "name": "yup-ast-generator",
   "description": "Yup AST generator",
   "repository": {
     "type": "git",
@@ -99,5 +99,8 @@
     "url": "https://github.com/yashsavla9/yup-ast/issues"
   },
   "homepage": "https://github.com/yashsavla9/yup-ast#readme",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "yup"
+  ]
 }
